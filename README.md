@@ -14,10 +14,12 @@ go get github.com/janqx/brainfuck-go
 
 ## Simple Example
 ```bash
+git clone https://github.com/janqx/brainfuck-go.git
+ 
 cd brainfuck-go
 
 # REPL
-go run cli/main
+go run cli/main.go
 >> ++++++++++++++++++++++++++++++++++++
 >> .
 $  
